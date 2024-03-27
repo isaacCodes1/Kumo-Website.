@@ -122,4 +122,7 @@
   .reviews {
     font-size: 0;
   }
+  .menu {
+    display: none;
+  }
 }

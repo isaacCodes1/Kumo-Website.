@@ -122,4 +122,7 @@
   .reviews {
     font-size: 0;
   }
+  .bx bx-menu {
+    display: none;
+  }
 }
