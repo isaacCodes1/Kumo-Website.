@@ -661,7 +661,7 @@ p {
   transition: 1s ease-in-out;
 }
 .menu {
-  display: none;
+  display: hidden;
 }
 .pro3 {
   margin-left: 150px;
