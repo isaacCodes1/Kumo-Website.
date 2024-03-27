@@ -1,0 +1,12 @@
+@media(890px){
+    header{
+        padding: 20px 3%;
+        transition: .4s;
+    }
+}
+@media(max-width:630px){
+    .main-text h1{
+        font-size: 50px;
+        transit
+    }
+}

@@ -1,0 +1,27 @@
+@media (890px) {
+  header {
+    padding: 20px 3%;
+    transition: 0.4s;
+  }
+}
+@media (max-width: 630px) {
+  .main-text h1 {
+    font-size: 50px;
+    transition: 0.4s;
+  }
+  .main-text p {
+    font-size: 18px;
+    transition: 0.4s;
+  }
+  .main-btn {
+    padding: 10px 20px;
+    transition: 0.4s;
+  }
+}
+@media(max-width: 750px){
+    .navmenu{
+        position: absolute;
+        top: 100%;
+        right: 0;
+    }
+}
